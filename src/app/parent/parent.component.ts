@@ -12,6 +12,7 @@ export class ParentComponent implements OnInit {
 
   ngOnInit() {
     this.stock = 100;
+    
   }
 
   receiver(e:number): void {
