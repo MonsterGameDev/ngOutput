@@ -1,0 +1,11 @@
+<div>
+  In stock: {{ stock }} cups of coffee.
+  <br />
+  <br>
+  <button (click)="decrement(1)">BUY</button>
+  <br />
+  <br />
+  <div class="graph">
+    <div class="slider" [style.width]="sliderWidth"></div>
+  </div>
+</div>

@@ -1,0 +1,12 @@
+.root {
+    width:100%;
+    height:100%;
+    background: lightsalmon;
+    padding:2em;
+
+}
+
+.parentContainer {
+    background: #9da4b8;
+    width:95%;
+}

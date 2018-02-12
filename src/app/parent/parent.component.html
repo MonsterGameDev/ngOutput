@@ -1,0 +1,8 @@
+<div class="parent">
+  <div style="background:teal">
+    Kopper kaffe tilbage: {{ stock }}
+  </div>
+  <div class="childContainer">
+    <app-child (stockChangeEmitter)='receiver($event)'></app-child>
+  </div>
+</div>

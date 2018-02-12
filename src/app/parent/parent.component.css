@@ -1,0 +1,15 @@
+.childContainer {
+    padding:2em;
+    background:rgb(121, 70, 70);
+    padding:2em;
+    margin-left:20%;
+    width:50%;
+    border:1em solid darkolivegreen;
+    
+
+}
+.parent {
+    height:100;
+    width:100%;
+    padding:2em;
+}

@@ -1,0 +1,13 @@
+.graph {
+    border:1px solid darkred;
+    width:100%;
+    height:1em;
+    background: lightpink;
+    padding:0px;
+    margin:0px;
+}
+
+.slider {
+    height:100%;
+    background-color:red;
+}
